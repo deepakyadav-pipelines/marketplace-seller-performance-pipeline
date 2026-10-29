@@ -1,0 +1,9 @@
+pandas
+SQLAlchemy
+PyMySQL
+fastapi
+uvicorn[standard]
+requests
+httpx
+python-dotenv
+pytest
