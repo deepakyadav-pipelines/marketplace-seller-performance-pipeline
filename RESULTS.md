@@ -93,4 +93,31 @@ R3 and R9 issues were logged in two SLA executions. R13's initial missing-rate r
 | Unknown | 0 |
 | **Total** | **32,951** |
 
+## 9. Top 5 Sellers — March 2018
+
+Metric: Commission USD
+
+| Rank | Seller ID | Commission USD |
+|---:|---|---:|
+| 1 | 7d13fca15225358621be4086e1eb0964 | 1,082.52 |
+| 2 | 7c67e1448b00f6e969d365cea6b010ab | 999.96 |
+| 3 | 4869f7a5dfa277a7dca6462dcf3b52b2 | 976.42 |
+| 4 | 5dceca129747e92ff8ef7a997dc4f8ca | 791.31 |
+| 5 | ba90964cff9b9e0e6f32b23b82465f7b | 663.84 |
+
+## 10. Campaign-wise Performance — R18
+
+The following metrics represent all campaign-attributed items. Non-revenue-eligible items are included in attributed item counts; commission is calculated only for revenue-eligible items.
+
+| Campaign | Attributed Items | Gross (BRL) | Commission (USD) |
+|---|---:|---:|---:|
+| C001 — Black Friday 2017 | 2,876 | 360,475.84 | 13,867.49 |
+| C002 — Back to School SP | 72 | 6,279.01 | 209.54 |
+| C003 — Tech Week | 196 | 20,591.42 | 759.88 |
+| C004 — Mother's Day | 927 | 146,739.76 | 5,692.70 |
+| C005 — Mother's Day South | 35 | 4,505.00 | 192.23 |
+| **Total** | **4,106** | **538,591.03** | **20,721.84** |
+
+Commission USD follows the campaign-attributed items' revenue eligibility and the R6 FX conversion logic.
+
 Manual patches covered `home_comfort`, `pc_gamer`, and `portable_kitchen_and_food_preparers`.
